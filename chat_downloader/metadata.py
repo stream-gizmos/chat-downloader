@@ -6,5 +6,5 @@ __summary__ = 'A simple tool used to retrieve chat messages from livestreams, vi
 __author__ = 'xenova'
 __email__ = 'admin@xenova.com'
 __copyright__ = '2020-2023 xenova'
-__url__ = 'https://github.com/xenova/chat-downloader'
-__version__ = '0.2.8'
+__url__ = 'https://github.com/stream-gizmos/chat-downloader'
+__version__ = '0.2.8p1'
